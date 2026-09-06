@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /posts/
+
+Sitemap: https://didadida7747.github.io/mizuki-blog/sitemap-index.xml
